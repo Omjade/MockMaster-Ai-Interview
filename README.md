@@ -87,7 +87,7 @@ npm run dev
 
 # 4. Open in browser
 http://localhost:3000
-⚠️ You'll need to set up environment variables for Clerk and Gemini API keys.
+⚠️  You'll need to set up environment variables for Clerk and Gemini API keys .
 
 
 🌱 Future Enhancements
@@ -123,7 +123,7 @@ Want to improve the UI or add a domain? Fork away! 🛠️
 
 🧑‍💻 GitHub: https://github.com/Omjade
 
-<p align="center"> <em>“Interviews made smarter with AI. Practice with precision.”</em> </p> ```
+<p align="center"> <em>“Interviews made  smarter with AI. Practice with precision.”</em> </p> ```
 
 
 
