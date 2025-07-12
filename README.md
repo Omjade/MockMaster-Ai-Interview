@@ -41,7 +41,7 @@ Designed to assist students and job seekers in building confidence for both tech
 
 🌐 **Try It Here**:  
 👉 https://mock-master-ai-interview.vercel.app  
-📱 *Best on desktop for full interaction*
+📱 *Best on desktop for full interaction *
 
 ---
 
